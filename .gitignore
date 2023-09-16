@@ -2,6 +2,10 @@
 *.pyc
 __pycache__/
 
+#specific folders
+build/
+pyindex.egg-info/
+
 #IDE files
 .idea
 .vscode
