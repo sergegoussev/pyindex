@@ -1,6 +1,6 @@
 # pyndex
 
-This package enables python developers to create price indices. This package is complementary to other packages that exist for the same task in R, such as [PriceIndices](https://github.com/JacekBialek/PriceIndices). 
+This package enables python developers to create price indices. This package is complementary to other packages that existPriceIndexCalc, such as [PriceIndices](https://github.com/JacekBialek/PriceIndices) and [PriceIndexCalc](https://github.com/drrobotk/PriceIndexCalc/). 
 
 **Status**: Development
 
